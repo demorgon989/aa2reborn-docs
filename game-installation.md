@@ -8,7 +8,7 @@ The installation for AA2Reborn is pretty straightforward.
 
 ## Windows
 
-Download the game from the [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_x64-setup.exe) and follow the instructions.
+Download the game from [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_x64-setup.exe) and follow the instructions.
 
 ### Smartscreen
 
@@ -21,6 +21,15 @@ You might get the following warning from Windows Smartscreen when you try to run
 
 ## Linux
 
-Unfortunately, there is no Linux version of AA2Reborn yet, I had to focus on making 2.8.5 playable. I will be looking into it in the following days, but for now, you can try running the Windows version using Wine or a similar compatibility layer.
-<br/>
-FYI: The base game America's Army 2.8.5 is not available on Linux either, so you need Wine or similar to run the base game as well.
+Make sure you have Wine installed on your system as America's Army 2.8.5 is not natively supported on Linux. You can install it using your distribution's package manager. For example, on Ubuntu, you can run the following command:
+
+```bash
+sudo apt-get install wine
+```
+Once you have Wine installed, you can download the AppImage from [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_amd64.AppImage).
+
+Then do:
+```bash
+chmod +x AA2Reborn_0.3.0_amd64.AppImage
+./AA2Reborn_0.3.0_amd64.AppImage
+```
