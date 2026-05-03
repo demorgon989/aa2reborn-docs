@@ -33,3 +33,8 @@ Then do:
 chmod +x AA2Reborn_0.3.0_amd64.AppImage
 ./AA2Reborn_0.3.0_amd64.AppImage
 ```
+
+If you're stuck in 'Checking game files', try to run:
+```bash
+sudo ./AA2Reborn_0.3.0_amd64.AppImage
+```
