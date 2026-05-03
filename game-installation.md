@@ -6,16 +6,15 @@ outline: deep
 
 The installation for AA2Reborn is pretty straightforward.
 
-Download the game from the [official website](https://download.aa2reborn.com/AA2Reborn_latest_setup.exe) and follow the instructions.
-
-
 ## Windows
+
+Download the game from the [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_x64-setup.exe) and follow the instructions.
 
 ### Smartscreen
 
 You might get the following warning from Windows Smartscreen when you try to run the installer. This is because the installer is not signed with a code signing certificate, which is a common practice for community projects to avoid the cost of obtaining a certificate. **The file is totally safe.**
 
-<image src="smartscreen_warning.png" alt="Smartscreen warning" />
+![Smartscreen warning](./smartscreen_warning.png)
 
  Press more info and then click on "Run anyway" to proceed with the installation.
 
