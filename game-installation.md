@@ -8,7 +8,7 @@ The installation for AA2Reborn is pretty straightforward.
 
 ## Windows
 
-Download the game from [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_x64-setup.exe) and follow the instructions.
+Download the game from [here](https://download.aa2reborn.com/AA2Reborn_0.3.1_x64-setup.exe) and follow the instructions.
 
 ### Smartscreen
 
@@ -26,15 +26,15 @@ Make sure you have Wine installed on your system as America's Army 2.8.5 is not 
 ```bash
 sudo apt-get install wine
 ```
-Once you have Wine installed, you can download the AppImage from [here](https://download.aa2reborn.com/AA2Reborn_0.3.0_amd64.AppImage).
+Once you have Wine installed, you can download the AppImage from [here](https://download.aa2reborn.com/AA2Reborn_0.3.1_amd64.AppImage).
 
 Then do:
 ```bash
-chmod +x AA2Reborn_0.3.0_amd64.AppImage
-./AA2Reborn_0.3.0_amd64.AppImage
+chmod +x AA2Reborn_0.3.1_amd64.AppImage
+./AA2Reborn_0.3.1_amd64.AppImage
 ```
 
 If you're stuck in 'Checking game files', try to run:
 ```bash
-sudo ./AA2Reborn_0.3.0_amd64.AppImage
+sudo ./AA2Reborn_0.3.1_amd64.AppImage
 ```
