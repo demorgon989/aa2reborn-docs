@@ -71,8 +71,7 @@ server administration. It is enabled by default.
 | ``` -ini=<filename>```   | Sets the initialization file.                  | server.ini |
 | ```-ultimatemod=false``` | Disables the Ultimate Mod flag for AAMods.exe. | true       |
 
-[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for the configuring
-the server.
+[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for configuring the server.
 
 ### Running multiple servers
 
@@ -145,7 +144,7 @@ Run the updater:
 python3 updater.py
 ```
 
-[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for the configuring
+[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for configuring the server
 
 ### Run the server
 
