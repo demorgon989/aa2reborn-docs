@@ -11,6 +11,6 @@ hero:
       link: /game-installation
     - theme: alt
       text: Server Docs
-      link: /api-examples
+      link: /dedicated-servers
 ---
 

@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Documentation',
         items: [
           { text: 'Game installation', link: '/game-installation' },
-          { text: 'Setting up a dedicated server', link: '/server-docs' }
+          { text: 'Setting up a dedicated server', link: '/dedicated-servers' }
         ]
       }
     ],
