@@ -71,7 +71,7 @@ server administration. It is enabled by default.
 | ``` -ini=<filename>```   | Sets the initialization file.                  | server.ini |
 | ```-ultimatemod=false``` | Disables the Ultimate Mod flag for AAMods.exe. | true       |
 
-[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#serverini-configuration) section below for the configuring
+[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for the configuring
 the server.
 
 ### Running multiple servers
@@ -112,7 +112,7 @@ binaries. This will do until we can figure out a solution natively for Linux.
 - Python 3
 - Dedicated user account for the server (recommended)
 
-### Install Wine and winetricks (Debian/Ubuntu example)
+### Install Wine, Wget, Python (Debian/Ubuntu example)
 
 ```bash
 sudo apt update; sudo apt install -y wine64 wine32 wget python3
@@ -144,6 +144,8 @@ Run the updater:
 ```powershell
 python3 updater.py
 ```
+
+[!!! IMPORTANT !!!] Jump to the [server.ini configuration](#server-ini-configuration) section below for the configuring
 
 ### Run the server
 
