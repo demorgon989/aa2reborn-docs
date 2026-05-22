@@ -81,7 +81,7 @@ The query port is always game port + 1. Both must be open and forwarded.
 - Make sure ports 1716 and 1717 are open and forwarded in your host firewall and router
 AMP automatically assigns available ports at instance creation — these may not be 1716/1717. Check the ports AMP assigned by looking at the AA2Reborn dashboard in AMP, then make sure your Game Port and Auth Port in the configuration match what AMP has assigned. It's easier to update the config to match AMP than the other way around.
 
-::: details Screenshot — Network and Ports tab
+::: details Screenshot — Network and Ports Status
 
 ![AMP instance Network and Ports tab](./image_amp01.png)
 
