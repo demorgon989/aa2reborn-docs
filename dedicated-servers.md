@@ -9,6 +9,13 @@ This document explains how to run a dedicated server for AA2Reborn on:
 
 The steps cover prerequisites, installation, configuration, running the server, firewall and ports guidance, and troubleshooting tips.
 
+## CubeCoders AMP
+
+If you're already familiar with [CubeCoders AMP](https://cubecoders.com/AMP) and would like to use it to host and manage your AA2Reborn server, a community-maintained template is available that handles the setup for you and exposes all server settings directly in the AMP dashboard.
+
+See the [AMP Setup Guide](./amp-setup) to get started.
+
+
 ## Important Notes
 - If you don't have experience running America's Army 2 servers, I highly recommend reading this guide first from top to bottom, then follow the instructions to set up your server on your desired OS.
 - The port you specify in server.ini is the game port. You must keep in mind that the query port is game port + 1, so if you specify 1716 in server.ini, you have to open 1716 and 1717 in your firewall and port forward them if you're behind a router.
