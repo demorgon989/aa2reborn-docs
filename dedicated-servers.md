@@ -13,7 +13,7 @@ The steps cover prerequisites, installation, configuration, running the server, 
 
 If you're already familiar with [CubeCoders AMP](https://cubecoders.com/AMP) and would like to use it to host and manage your AA2Reborn server, a community-maintained template is available that handles the setup for you and exposes all server settings directly in the AMP dashboard.
 
-See the [AMP Setup Guide](./amp-setup.md) to get started.
+See the [AMP Setup Guide](./amp-setup) to get started.
 
 
 ## Important Notes
