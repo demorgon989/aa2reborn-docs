@@ -6,6 +6,7 @@ This document explains how to run a dedicated server for AA2Reborn on:
 
 - [Windows](#windows-—-quick-start)
 - [Linux using Wine](#linux-wine-—-quick-start)
+- [CubeCoders AMP](#cubecoders-amp)
 
 The steps cover prerequisites, installation, configuration, running the server, firewall and ports guidance, and troubleshooting tips.
 
