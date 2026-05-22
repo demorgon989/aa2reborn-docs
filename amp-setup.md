@@ -14,7 +14,7 @@ The AA2Reborn AMP template is **Linux only**. AMP must be configured to use Dock
 
 You'll need:
 
-- AMP installed on a Linux host with Docker enabled ([AMP Docker setup guide](https://github.com/CubeCoders/AMP/wiki/Running-AMP-in-Docker))
+- AMP installed on a Linux host with Docker or Podman enabled
 - A **Server Secret** from [tracker.aa2reborn.com](https://tracker.aa2reborn.com) — log in, go to your profile, and create a server entry to get one
 - Your server's **public IP address** — find it at [ipinfo.io/ip](https://ipinfo.io/ip)
 - Ports **1716/UDP** (game) and **1717/UDP** (query) open in your firewall and forwarded if you're behind a router
