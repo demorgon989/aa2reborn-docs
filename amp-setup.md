@@ -41,7 +41,7 @@ If the templates don't show up in the next step, click **Fetch** once more and r
 
 ## Step 2 — Create an Instance
 
-Go to **Create Instance** and select **AA2Reborn** from the game dropdown. Make sure you're creating a **Generic Module** instance with Docker.
+Go to **Create Instance** and select **AA2Reborn** from the game dropdown.
 
 AMP will download the server files from the AA2Reborn CDN on first start — this may take a few minutes.
 
