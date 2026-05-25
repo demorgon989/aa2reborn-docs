@@ -25,7 +25,7 @@ The AA2Reborn template isn't built into AMP — you need to add it first.
 
 In your AMP panel, go to:
 
-**ADS → Configuration → Instance Deployment → Configuration Repositories**
+**ADS → Configuration → Instance Deployment → Instance Management*
 
 Add the following repository:
 
