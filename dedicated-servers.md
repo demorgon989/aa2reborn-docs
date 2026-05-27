@@ -6,8 +6,10 @@ This document explains how to run a dedicated server for AA2Reborn on:
 
 - [Windows](#windows-—-quick-start)
 - [Linux using Wine](#linux-wine-—-quick-start)
+- [CubeCoders AMP](#cubecoders-amp)
 
 The steps cover prerequisites, installation, configuration, running the server, firewall and ports guidance, and troubleshooting tips.
+
 
 ## Important Notes
 - If you don't have experience running America's Army 2 servers, I highly recommend reading this guide first from top to bottom, then follow the instructions to set up your server on your desired OS.
@@ -236,3 +238,9 @@ Linux: check listening ports
 ```bash
 sudo ss -tunlp | grep -E "12345|AA_Server"
 ```
+
+## CubeCoders AMP
+
+If you're already familiar with [CubeCoders AMP](https://cubecoders.com/AMP) and would like to use it to host and manage your AA2Reborn server, a community-maintained template is available that handles the setup for you and exposes all server settings directly in the AMP dashboard.
+
+See the [AMP Setup Guide](./amp-setup) to get started.
