@@ -8,7 +8,7 @@ The installation for AA2Reborn is pretty straightforward.
 
 ## Windows
 
-Download the game from [here](https://download.aa2reborn.com/AA2Reborn_0.5.0_x64-setup.exe) and follow the instructions.
+Download the game from [here](https://download.aa2reborn.com/AA2Reborn_0.5.0_x64-setup.exe) and follow the instructions. 
 
 ### Smartscreen
 
